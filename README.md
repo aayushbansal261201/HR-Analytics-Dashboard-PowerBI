@@ -62,24 +62,4 @@ The dashboard includes the following visual components:
 - **DAX (Data Analysis Expressions):** To create calculated measures and columns.
 - **Power Query:** For data extraction, transformation, and loading (ETL).
 
-## Contributing
-
-Contributions to enhance the dashboard are welcome. You can contribute by:
-
-1. Forking the repository.
-2. Creating a new branch for your feature or improvement.
-3. Committing your changes.
-4. Submitting a pull request for review.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to the open-source community and various contributors who have provided valuable resources and inspiration for this project.
-
----
-
-*For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).*
 
